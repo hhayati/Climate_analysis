@@ -1,16 +1,17 @@
 # Climate_analysis
 ## Overview of the analysis
+
 In this analysis, we analyzed the weather data in Oahu (Hawaii) during months of June and December. The goal was to determine if weather conditions are suitable for surfing in Oahu. These results will help  a potential investor to make a decision about opening a  surf &Ice-cream shop 
 
 
 ## Results
 
-A summary weather data in June and December are presented below.
+A summary of weather data in June and December are presented below.
+
+![image](https://user-images.githubusercontent.com/58461542/172096486-4736b960-4415-4a9d-8e51-cd30536f7e16.png)
 
 
-![image](https://user-images.githubusercontent.com/58461542/172095796-a2204697-db33-4506-890d-1a685c0c7365.png)
-
-![image](https://user-images.githubusercontent.com/58461542/172095807-6a6db751-1f3d-4aa5-b209-78813f619519.png)
+![image](https://user-images.githubusercontent.com/58461542/172096499-cb45631b-e197-4488-aa59-8545998534a9.png)
 
 
 It is noted:
